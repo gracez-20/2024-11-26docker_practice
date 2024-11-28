@@ -8,4 +8,4 @@ RUN fix-permissions "${CONDA_DIR}"
 RUN fix-permissions "/home/${NB_USER}"
 
 RUN echo "hello"
-RUN echo "updated password and username"
+RUN echo "updated password and username" 
